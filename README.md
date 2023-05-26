@@ -16,3 +16,4 @@
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
  - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
  - source005 [https://www.bleepingcomputer.com/feed/](https://www.bleepingcomputer.com/feed/) -> [bleeping_rss.xml](rss/bleeping_rss.xml)
+ - source006 [https://www.youtube.com/feeds/videos.xml?channel_id=UCVGOyzms_XJNk_DHqrffXCw](https://www.youtube.com/feeds/videos.xml?channel_id=UCVGOyzms_XJNk_DHqrffXCw) -> [MicrosoftWindows_rss.xml](rss/MicrosoftWindows_rss.xml)
