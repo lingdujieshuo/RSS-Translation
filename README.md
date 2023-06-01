@@ -21,3 +21,4 @@
  - source008 [https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig](https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig) -> [YDTmDE_rss.xml](rss/YDTmDE_rss.xml)
  - source009 [https://www.youtube.com/feeds/videos.xml?channel_id=UCjoNsHD6hXxCNiisSZjdlLA](https://www.youtube.com/feeds/videos.xml?channel_id=UCjoNsHD6hXxCNiisSZjdlLA) -> [YjoNsHD6hX_rss.xml](rss/YjoNsHD6hX_rss.xml)
  - source010 [https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ](https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ) -> [UCQSpnDG3Y_rss.xml](rss/UCQSpnDG3Y_rss.xml)
+ - source011 [https://www.neowin.net/news/rss/](https://www.neowin.net/news/rss/) -> [eowin_rss.xml](rss/eowin_rss.xml)
